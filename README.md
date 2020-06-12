@@ -6,9 +6,12 @@ Foobar is a web-app that posts a series of challenges which you have a set time 
 ## Challenges
 Here are some challenges that I came across.
 
-* [Re-ID (level 1)](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%201)
-* [Bunny Prisoner Locating (level 2)](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%202/2.1%20Bunny%20Prisoner%20Locating)
-* [Elevator Maintanence (level 2)](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%202/2.2%20Elevator%20Maintenance)
+### Level 1
+* [Re-ID](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%201)
+
+### Level 2
+* [Bunny Prisoner Locating](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%202/2.1%20Bunny%20Prisoner%20Locating)
+* [Elevator Maintanence](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%202/2.2%20Elevator%20Maintenance)
 
 ## Story
 
