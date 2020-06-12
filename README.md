@@ -13,6 +13,19 @@ Here are some challenges that I came across.
 * [Bunny Prisoner Locating](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%202/2.1%20Bunny%20Prisoner%20Locating)
 * [Elevator Maintanence](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%202/2.2%20Elevator%20Maintenance)
 
+### Level 3
+* [Queue To Do](https://github.com/saketlakhotia17/foobar.withgoogle/blob/master/README.md)
+* [Fuel Injection Perfection](https://github.com/saketlakhotia17/foobar.withgoogle/blob/master/README.md)
+* [Find The Access Code](https://github.com/saketlakhotia17/foobar.withgoogle/blob/master/README.md)
+
+### Level 4
+* [Free The Bunny Prisoners](https://github.com/saketlakhotia17/foobar.withgoogle/blob/master/README.md)
+* [Running With Bunnies](https://github.com/saketlakhotia17/foobar.withgoogle/blob/master/README.md)
+
+### Level 5
+* [Dodge The Laser](https://github.com/saketlakhotia17/foobar.withgoogle/blob/master/README.md)
+* [Disoderly Escape](https://github.com/saketlakhotia17/foobar.withgoogle/blob/master/README.md)
+
 ## Story
 
 foobar:~/ saket.lakhotia17$ 
