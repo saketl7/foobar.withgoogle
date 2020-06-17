@@ -14,9 +14,9 @@ Here are some challenges that I came across.
 * [Elevator Maintanence](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%202/2.2%20Elevator%20Maintenance)
 
 ### Level 3
-* [Queue To Do](https://github.com/saketlakhotia17/foobar.withgoogle/blob/master/README.md)
-* [Fuel Injection Perfection](https://github.com/saketlakhotia17/foobar.withgoogle/blob/master/README.md)
-* [Find The Access Code](https://github.com/saketlakhotia17/foobar.withgoogle/blob/master/README.md)
+* [Queue To Do](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%203/3.1%20Queue%20To%20Do)
+* [Fuel Injection Perfection](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%203/%203.2%20Fuel%20Injection%20Perfection)
+* [Find The Access Code](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%203/3.3%20Find%20The%20Access%20Code)
 
 ### Level 4
 * [Free The Bunny Prisoners](https://github.com/saketlakhotia17/foobar.withgoogle/blob/master/README.md)
