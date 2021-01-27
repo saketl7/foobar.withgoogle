@@ -19,12 +19,12 @@ Here are some challenges that I came across.
 * [Find The Access Code](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%203/3.3%20Find%20The%20Access%20Code)
 
 ### Level 4
-* [Free The Bunny Prisoners](https://github.com/saketlakhotia17/foobar.withgoogle/blob/master/README.md)
-* [Running With Bunnies](https://github.com/saketlakhotia17/foobar.withgoogle/blob/master/README.md)
+* [Free The Bunny Prisoners](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%204/4.1%20Free%20The%20Bunny%20Prisoners)
+* [Running With Bunnies](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%204/4.2%20Running%20With%20Bunnies)
 
 ### Level 5
-* [Dodge The Laser](https://github.com/saketlakhotia17/foobar.withgoogle/blob/master/README.md)
-* [Disoderly Escape](https://github.com/saketlakhotia17/foobar.withgoogle/blob/master/README.md)
+* [Dodge The Laser](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%205/5.1%20Dodge%20The%20Laser)
+* [Disoderly Escape](https://github.com/saketlakhotia17/foobar.withgoogle/tree/master/Level%205/5.2%20Disoderly%20Escape)
 
 ## Story
 
