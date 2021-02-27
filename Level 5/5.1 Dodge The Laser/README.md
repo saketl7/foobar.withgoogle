@@ -1,5 +1,5 @@
 #Dodge the Lasers!
-===================
+
 
 Oh no! You've managed to escape Commander Lambdas collapsing space station in an escape pod with the rescued bunny prisoners - but Commander Lambda isnt about to let you get away that easily. She's sent her elite fighter pilot squadron after you - and they've opened fire!
 
@@ -12,14 +12,14 @@ For example, if str_n was "5", the solution would be calculated as floor(1sqrt(2
 str_n will be a positive integer between 1 and 10^100, inclusive. Since n can be very large (up to 101 digits!), using just sqrt(2) and a loop won't work. Sometimes, it's easier to take a step back and concentrate not on what you have in front of you, but on what you don't.
 
 ##Languages
-=========
+
 
 To provide a Java solution, edit Solution.java
 To provide a Python solution, edit solution.py
 
 
 ##Test cases
-==========
+
 
 Your code should pass the following test cases. 
 Note that it may also be run against hidden test cases not shown here.
