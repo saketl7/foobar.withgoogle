@@ -1,5 +1,5 @@
 # Disorderly Escape
-=================
+
 
 Oh no! You've managed to free the bunny prisoners and escape Commander Lambdas exploding space station, but her team of elite starfighters has flanked your ship. If you dont jump to hyperspace, and fast, youll be shot out of the sky!
 
@@ -49,13 +49,13 @@ In the above configuration, all celestial bodies are "silent" - that is, they ha
 There are 7 distinct, non-equivalent grids in total, so solution(2, 2, 2) would return 7.
 
 ## Languages
-=========
+
 
 To provide a Java solution, edit Solution.java
 To provide a Python solution, edit solution.py
 
 ## Test cases
-==========
+
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
